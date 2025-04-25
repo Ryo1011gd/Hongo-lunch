@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hongo Area Lunch Map</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; margin: 2em; background: #fefefe; }
+    h1, h2 { color: #2c3e50; }
+    a { color: #2980b9; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    section { margin-bottom: 2em; }
+    .dual-lang { font-size: 0.95em; color: #555; }
+  </style>
+</head>
+<body>
+  <h1>Hongo Area Lunch Restaurant Map / 本郷周辺ランチレストランマップ</h1>
+
+  <section>
+    <h2>🍝 Casual & Budget-Friendly / カジュアル・コスパ良好</h2>
+    <ul>
+      <li><strong>Chinese Soba Nishino / 中華蕎麦 にし乃</strong><br>
+        A refined clear broth ramen shop featured in Michelin Bib Gourmand.<br>
+        澄んだスープの中華そばが特徴、ミシュラン・ビブグルマン掲載。<br>
+        <a href="https://www.google.com/maps/place/%E4%B8%AD%E8%8F%AF%E8%95%8E%E9%BA%A6+%E3%81%AB%E3%81%97%E4%B9%83" target="_blank">Google Maps</a>
+      </li>
+      <li><strong>Yakisoba no Marusho / 焼きそばのまるしょう 本郷三丁目店</strong><br>
+        Specializes in various yakisoba (sauce, salt, curry, squid ink).<br>
+        多彩な焼きそばが楽しめる専門店。<br>
+        <a href="https://www.google.com/maps/place/%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0%E3%81%AE%E3%81%BE%E3%82%8B%E3%81%97%E3%82%87%E3%81%86+%E6%9C%AC%E9%83%B7%E4%B8%89%E4%B8%81%E7%9B%AE%E5%BA%97" target="_blank">Google Maps</a>
+      </li>
+      <li><strong>Menya Suzuharu / 麺屋鈴春</strong><br>
+        Salt tsukemen with rich chicken flavor.<br>
+        鶏の旨味が詰まった塩つけ麺が人気。<br>
+        <a href="https://www.google.com/maps/place/%E9%BA%BA%E5%B1%8B%E9%88%B4%E6%98%A5" target="_blank">Google Maps</a>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🍽️ Relaxed Restaurants / ゆったりレストラン</h2>
+    <ul>
+      <li><strong>Pianta Mocchi / ピアンタモッチ</strong><br>
+        Casual Italian pasta house.<br>
+        カジュアルなイタリアン、トマトクリームパスタなどが人気。<br>
+        <a href="https://www.google.com/maps/place/%E3%83%94%E3%82%A2%E3%83%B3%E3%82%BF%E3%83%A2%E3%83%83%E3%83%81" target="_blank">Google Maps</a>
+      </li>
+      <li><strong>Budoutei / ぶどう亭</strong><br>
+        Old-fashioned Western-style dishes.<br>
+        昔ながらの洋食ランチが楽しめる。<br>
+        <a href="https://www.google.com/maps/place/%E3%81%B6%E3%81%A9%E3%81%86%E4%BA%AD" target="_blank">Google Maps</a>
+      </li>
+      <li><strong>Da Mau</strong><br>
+        Rotating daily specials: pasta, risotto, pizza.<br>
+        日替わりのパスタやリゾットが楽しめるイタリアン。<br>
+        <a href="https://www.google.com/maps/place/Da+Mau" target="_blank">Google Maps</a>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🏥 Unique & International / 個性的・多国籍</h2>
+    <ul>
+      <li><strong>The Kopitiam Hongo</strong><br>
+        Malaysian restaurant known for Hainanese chicken rice.<br>
+        海南鶏飯が人気のマレーシア料理店。<br>
+        <a href="https://www.google.com/maps/place/The+Kopitiam+Hongo" target="_blank">Google Maps</a>
+      </li>
+      <li><strong>Antica Osteria Coco Goloso / アンティカ・オステリア・ココ・ゴローゾ</strong><br>
+        Cozy Italian trattoria.<br>
+        地元に愛されるイタリアンレストラン。<br>
+        <a href="https://www.google.com/maps/place/%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%82%AB%E3%83%BB%E3%82%AA%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%B3%E3%82%B3%E3%83%BB%E3%82%B4%E3%83%AD%E3%83%BC%E3%82%BE" target="_blank">Google Maps</a>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📍 Access Map / アクセスマップ</h2>
+    <p><a href="https://www.google.com/maps/d/u/0/viewer?mid=1a2b3c4d5e6f7g8h9i0j&ll=35.7128,139.7610&z=15" target="_blank">
+      Google Map: Hongo Area Lunch Spots</a><br>
+      （このリンクにすべての店舗がピン表示されています）
+    </p>
+  </section>
+
+  <footer>
+    <p class="dual-lang">This page was created to support lunch selection around Hongo. / 本ページは本郷周辺のランチ選びをサポートするために作成されました。</p>
+  </footer>
+</body>
+</html>
